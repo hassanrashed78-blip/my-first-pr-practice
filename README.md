@@ -16,3 +16,10 @@ cd my-first-pr-practice
 ```
 
 Make a change on a new branch, commit it, push, and open a PR against `main`.
+
+## Contributing
+
+1. Create a branch: `git checkout -b my-change`
+2. Commit your change: `git commit -m "Describe your change"`
+3. Push it: `git push -u origin my-change`
+4. Open a PR: `gh pr create`
